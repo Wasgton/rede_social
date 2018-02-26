@@ -1,0 +1,38 @@
+.cadastro-form {
+    padding: 20px;
+}
+
+.jumbotron{
+    position:absolute;
+    top:23%;
+    left:15%;
+}
+.navbar{
+     background-color: #141517;
+    //background-color: #4e36ab;
+    height: 5%;
+}
+
+.navbar-default .navbar-nav li a {
+    color: white;
+}
+.navbar-default .navbar-nav li a:hover {
+    color: white;
+    background-color: darkmagenta;
+}
+
+.erro{
+    color: red;
+}
+
+.form-login{
+    width: 300px;
+}
+.logo{
+    width: 100px;
+    height: 49px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form .collapse-color{
+        background-color: black;
+}

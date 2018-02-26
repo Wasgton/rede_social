@@ -1,0 +1,39 @@
+body{
+    background-color: #e9ebee;
+
+}
+
+.body-feed{
+    margin-top: 5%;
+}
+
+.img-perfil {
+    margin: 0 auto;
+    height: 100px;
+    width: 100px;
+    margin-left: 30%;
+}
+
+.text-panel{
+    color: white;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 15px;
+}
+
+.nick-pefil{
+    text-align: center;
+}
+
+.tooltip:hover{
+    display: block;
+    position: absolute;
+    width: 230px;
+    top: 0em;
+    text-align: justify;
+    left: 6em;
+    font: 10px Verdana, arial, helvetica, sans-serif;
+    padding: 5px 10px;
+    border: 1px solid #999;
+    background: #E8EBF2;
+    color: #000;
+}
